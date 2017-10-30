@@ -8,7 +8,7 @@ Introduction to Computer Science" (Franklin, Beedle & Associates).
 
 LICENSE: This is open-source software released under the terms of the
 GPL (http://www.gnu.org/licenses/gpl.html).
-http://tritechsc.ksd.org/cyber/handsonpython/
+
 PLATFORMS: The package is a wrapper around Tkinter and should run on
 any platform where Tkinter is available.
 
@@ -48,7 +48,7 @@ The library provides the following graphical objects:
 
 Various attributes of graphical objects can be set such as
 outline-color, fill-color and line-width. Graphical objects also
-support moving and hiding for animation effects.http://tritechsc.ksd.org/cyber/handsonpython/
+support moving and hiding for animation effects.
 
 The library also provides a very simple class for pixel-based image
 manipulation, Pixmap. A pixmap can be loaded from a file and displayed
